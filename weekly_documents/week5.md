@@ -17,3 +17,12 @@
 - Deployment will be very challenging
 - Not all repos from gitlabs are needed (only 4 out of the 6)
 - Use SSH keys to pull from gitlabd
+
+### Frontend with Google drive code
+- Had to navigate folders on terminal from frontend -> frontendapp
+- Delete and clean any old npm modules
+- npm cache clean --force
+- rd /s /q "node_modules"
+- npm install
+- npm audit fix
+- npm start
