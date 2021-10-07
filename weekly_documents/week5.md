@@ -26,3 +26,10 @@
 - npm install
 - npm audit fix
 - npm start
+- NOTE: If getting "Delete cr [prettier/prettier]" error, the following code must be added to the rules object in the .eslintrc.js file:
+        "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto"
+      },
+    ],
