@@ -5,6 +5,7 @@
 - Understanding how previous systems work and how to build on them
 - Getting the front and back end to work
 - Start working on the video assignment for next week
+- Upload git stats and repository link on canvas
 
 
 ### Meeting with Kimberlee on October 1st:
@@ -33,3 +34,14 @@
         "endOfLine": "auto"
       },
     ],
+
+### Meeting with Kimberlee Oct 8th:
+- Explained that the front end is working on our local machine but not the back end.
+- One group member reached out to a previous developer for back end help but did not succeed in getting it running.
+- Kimberlee is going to reach out to previous team for backend help.
+- Possibility of creating our own backend and melting it together with the front end provided by the previous developers. 
+- Changing the files in the database to mongodb instead of postgresql.
+- Changing the meeting place from google to discord.
+- Have the previous developers create a video on how to get the backend running on our machines.
+- Kimberlee will reach out to her contact in Telus to meet with us for further help.
+- Kimberlee provided a ux design of the website and how all the pages work on a simple scale.
