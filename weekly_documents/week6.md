@@ -1,4 +1,4 @@
-## Week 5
+## Week 6
 
 ### Issues to work on:
 - Completed deploying front end locally on all our devices
