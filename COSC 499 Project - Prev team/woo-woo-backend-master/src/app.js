@@ -77,7 +77,7 @@ app.use('/', indexRouter);
 app.use(handleErrors);
 
 // this is to seed some sample data
-// createHealerBulk();
+createHealerBulk(); // only use to add data
 // seedDataForExistUser();
 
 export default app;
