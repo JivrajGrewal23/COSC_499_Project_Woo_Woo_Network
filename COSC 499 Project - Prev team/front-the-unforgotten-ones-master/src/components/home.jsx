@@ -277,8 +277,14 @@ function Home() {
           <Typography variant="h5" color="inherit" paragraph>
             We connect clients to healers worldwide
           </Typography>
-          <input type="text" placeholder="Search.." id="search"></input>
         </Paper>
+
+        <form className={classes.flavorContents}>
+          <input type="text" placeholder="Search.." id="search"></input>
+          <button id="search-btn" type="submit">
+            Search
+          </button>
+        </form>
 
         <Box className={classes.buttonContainer}>
           <Button
